@@ -2,7 +2,7 @@
 Simple but fully functional example of Gulp to perform front-end builds.
 
 ## Getting Started
-First install gulp and project dependencies with commands:
+First, install gulp and project dependencies with commands:
 ```
 $ npm install -g gulp
 $ npm install
